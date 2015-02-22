@@ -30,14 +30,7 @@ def create_movies():
 	"https://www.youtube.com/watch?v=FslQpa4wXZE", "A married father of three tries to maintain his manliness in a world increasingly dominated by women.",
 	3.5, "Season 2", "Nov 8, 213")
 
-	movie_list = [good_will_hunting, the_dark_knight, tinker_tailor, fraizer, friends, last_man]
-	#print tinker_tailor.video_title 
-	#print tinker_tailor.video_poster 
-	#print tinker_tailor.video_clip_link
-	#print tinker_tailor.movie_story
-	#print tinker_tailor.movie_rating
-	#print isinstance(last_man, movie.TVShow)
-	#print type(tinker_tailor)
+	movie_list = [good_will_hunting, the_dark_knight, tinker_tailor, fraizer, friends, last_man]	
 	fresh_tomatoes.open_movies_page(movie_list)
 	
 	

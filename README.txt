@@ -9,3 +9,13 @@ Movie trailer project consists of following modules:
 	fresh_tomatoes.open_movies_page
 
 3. entertainment_center.py – this module imports movie and instantiates objects of Movie and TVShow and passes them in a list to fresh_tomatoes module to create the html page containing information about videos of your pick
+
+How to Run Movie Trailer:
+
+  - Make sure you have Pyhon 2.7 installed on your mahcine
+  - Simply double click file entertainment_center.py to generate and open HTML page
+
+Want to Create your own movie list:
+
+  -Import movie and fresh_tomatoes to your Python program
+  -Take a look at entertainment_center.py to create your own movies and tv shows and how to use them to generate your very own movie list.
